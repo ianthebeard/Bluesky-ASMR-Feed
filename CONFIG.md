@@ -25,8 +25,8 @@ Anytime someone mentioned ASMR... good or bad.
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts (but not replies or reposts).
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
--'asmr'
--'asmrtist'
+- asmr
+- asmrtist
 
 # safeMode
 
