@@ -32,8 +32,8 @@ A feed to get find and discover all kinds of ASMR content creators
 - https://bsky.app/profile/famkamasmr.bsky.social
 - https://bsky.app/profile/nathanasmr.bsky.social
 
-'asmr'
-'ASMR'
+-'asmr'
+-'ASMR'
 
 # safeMode
 
