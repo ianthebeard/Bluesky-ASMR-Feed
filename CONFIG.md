@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-asmrtists
+asmr
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-ASMRtists
+ASMR
 
 # description
 
 > This is the description of the feed.
 
-A feed to get find and discover all kinds of ASMR content creators
+Anytime someone mentioned ASMR... good or bad.
 
 # searchTerms
 
