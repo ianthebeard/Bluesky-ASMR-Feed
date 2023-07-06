@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+asmrtists
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
+ASMRtists
 
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+A feed to get find and discover all kinds of ASMR content creators
 
 # searchTerms
 
@@ -25,12 +25,13 @@ Cute animals feed
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts (but not replies or reposts).
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- https://bsky.app/profile/beardedaudio.com
+- https://bsky.app/profile/sleepingartistasmr.bsky.social
+- https://bsky.app/profile/jrobthehuman.justinrobinsonmusic.com
+- https://bsky.app/profile/brimaxian.bsky.social
+- https://bsky.app/profile/famkamasmr.bsky.social
+- https://bsky.app/profile/nathanasmr.bsky.social
+
 
 # safeMode
 
